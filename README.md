@@ -22,4 +22,4 @@ in [RFD 0](./rfd/rfd-0000.md)
 
 | state    | RFD |
 | -------- | ------------------------------------------------------------- |
-| publish  | [RFD 0 RFD Description and Authoring Guide](./rfd/drafts/rfd-0000.md) |
+| publish  | [RFD 0 RFD Description and Authoring Guide](./rfd/rfd-0000.md) |
