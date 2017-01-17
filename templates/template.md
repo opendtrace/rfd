@@ -1,6 +1,6 @@
 ---
 authors: Arthur Dent <adent@megadodo.com>, Ford Prefect <fp@megadodo.com>
-state: predraft
+state: draft
 ---
 
 <!-- 
