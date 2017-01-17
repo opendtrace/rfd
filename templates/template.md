@@ -11,3 +11,17 @@ state: draft
 -->
 
 # RFD <Number> <Title>
+
+## Problem Statement
+
+## User Visibility
+
+## Public Interfaces
+
+## Private Interfaces
+
+## Upgrade Impact
+
+## Security Impact
+
+## References
