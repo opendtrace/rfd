@@ -1,0 +1,22 @@
+ # dtrace -l | head -n20
+   ID   INSTANCE   PROVIDER            MODULE                          FUNCTION NAME
+    1       host     dtrace                                                     BEGIN
+    2       host     dtrace                                                     END
+    3       host     dtrace                                                     ERROR
+    4       host        fbt            kernel                camstatusentrycomp entry
+    5       host        fbt            kernel                camstatusentrycomp return
+    6       host        fbt            kernel            cam_compat_handle_0x17 entry
+    7       host        fbt            kernel            cam_compat_handle_0x17 return
+    8       host        fbt            kernel            cam_compat_handle_0x18 entry
+    9       host        fbt            kernel            cam_compat_handle_0x18 return
+   10       host        fbt            kernel cam_compat_translate_dev_match_0x18 entry
+   11       host        fbt            kernel cam_compat_translate_dev_match_0x18 return
+   12       host        fbt            kernel                   cam_periph_done entry
+   13       host        fbt            kernel             cam_periph_done_panic entry
+   14       host        fbt            kernel                     camperiphdone entry
+   15       host        fbt            kernel                     camperiphdone return
+   16       host        fbt            kernel               cam_ccbq_remove_ccb entry
+   17       host        fbt            kernel               cam_ccbq_remove_ccb return
+   18       host        fbt            kernel          cam_module_event_handler entry
+   19       host        fbt            kernel          cam_module_event_handler return
+
