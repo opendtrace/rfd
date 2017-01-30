@@ -24,3 +24,4 @@ in [RFD 0](./rfd/rfd-0000.md)
 | -------- | ------------------------------------------------------------- |
 | publish  | [RFD 0 RFD Description and Authoring Guide](./rfd/rfd-0000.md) |
 | draft    | [RFD 1 mbuf handling subroutine](./drafts/rfd-0001.md) |
+| draft    | [RFD 2 Adding instance specification to DTrace](./drafts/rfd-0002.md) |
